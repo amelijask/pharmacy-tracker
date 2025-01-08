@@ -58,6 +58,3 @@ function updateEmptyMessage() {
     emptyMessage.style.display = 'none';
   }
 }
-
-// On page load, check if list has items
-updateEmptyMessage();
