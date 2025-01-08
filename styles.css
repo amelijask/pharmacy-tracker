@@ -1,4 +1,3 @@
-```css
 /* Global Reset & Body */
 * {
   box-sizing: border-box;
@@ -134,4 +133,3 @@ h1 {
 .item-list li button:hover {
   background-color: #c0392b;
 }
-```
